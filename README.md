@@ -13,7 +13,7 @@ Log viewer for laravel-admin
 ## Installation
 
 ```
-$ composer require laravel-admin-ext/log-viewer -vvv
+$ composer require user771908231-ext/log-viewer -vvv
 
 $ php artisan admin:import log-viewer
 ```
